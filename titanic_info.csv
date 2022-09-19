@@ -1,7 +1,7 @@
 Variable,Definition,Key
 Survival,Survival,"0 = No, 1 = Yes"
 Pclass,Ticket class,"1 = 1st, 2 = 2nd, 3 = 3rd"
-Sex,Sex,	
+Sex,Sex,'male' or 'female'
 Age,Age,in years	
 Sibsp,"# of siblings / spouses aboard the Titanic",	
 Parch,"# of parents / children aboard the Titanic",	
